@@ -1041,11 +1041,11 @@ void welcome() //To display the welcome screen
    gotoxy(20,6);
    cprintf ( " \n\n D E V E L O P E D   B Y  :- " ) ;
    gotoxy(20,8);
-   cprintf ( "  \n\nShrishti Gupta, Shubham Guglani and Shubham Sharma " ) ;
+   cprintf ( "  \n\nAYUSH " ) ;
    gotoxy(20,10);
    cprintf ( " \n\n II-SEMESTER " ) ;
    gotoxy(20,12);
-   cprintf ( "  \n\nINDIAN INSTITUTE OF INFORMATION TECHNOLOGY,KOTA " ) ;
+   cprintf ( "  \n\nNATIONAL INSTITUTE OF TECHNOLOGY,KURUKSHETRA " ) ;
    gotoxy(15,16);
    cprintf("\n*******************************************************\n");;
   gotoxy(30,18);
